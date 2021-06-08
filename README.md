@@ -1,7 +1,7 @@
 # python-colab
 This repo contains all the python tutorial files
 
-[![Language: python](https://img.shields.io/github/languages/top/shahid-coder/python-colab)](https://python.org)
+[![Language:python](https://img.shields.io/github/languages/top/shahid-coder/python-colab)](https://python.org)
 [![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/python-colab)](https://github.com/shahid-coder/shahid-flappy-bird/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/python-colab)](https://github.com/shahid-coder/shahid-flappy-bird/graphs/contributors)
 # Documentation
