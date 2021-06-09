@@ -30,9 +30,9 @@ cd python-colab
 ```
 jupyter-notebook
 ```
-### Run on colab,binderhub and kaggle :
+### Run on colab and binderhub :
 There is a link in each file for running on colab 
-You will also see binder link on top of this page . visit binder link and code . 
+You will also see binder link on top of this page . 
 ## Contribution guidelines
 If you want to contribute to python-colab, be sure to review the
 [contribution guidelines](CONTRIBUTING.md).
