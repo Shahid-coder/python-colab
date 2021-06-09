@@ -13,7 +13,7 @@ for learning purpose. It is a comprehensive notebooks that will teach you python
 Note: This project uses python 3.8 or later . 
 # clone
 ### For Git bash:
-#### To clone notebooks type the following command in your terminal . But remember you have to download python in your system .visit [python.org](python.org) for download . 
+#### To clone notebooks type the following command in your terminal . But be sure you have python installed in your system .visit [python.org](python.org) for download . 
 
 ```
 git clone https://github.com/Shahid-coder/python-colab.git
@@ -30,6 +30,9 @@ cd python-colab
 ```
 jupyter-notebook
 ```
+### Run on colab,binderhub and kaggle :
+There is a link in each file for running on colab 
+You will also see binder link on top of this page . visit binder link and code . 
 ## Contribution guidelines
 If you want to contribute to python-colab, be sure to review the
 [contribution guidelines](CONTRIBUTING.md).
