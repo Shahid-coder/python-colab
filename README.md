@@ -13,7 +13,7 @@ for learning purpose. It is a set of comprehensive notebooks that will teach you
 Note: This project uses python 3.8 or later . 
 # clone
 ### For Git bash/CMD/powershell
-#### To clone notebooks type the following command in your terminal . But be sure you have python installed in your system .visit [python.org](python.org) for download . 
+#### To clone notebooks type the following command in your terminal . But be sure you have python installed in your system .visit [python.org](python.org) for help . 
 
 ```
 git clone https://github.com/Shahid-coder/python-colab.git
