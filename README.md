@@ -8,7 +8,7 @@ This repo contains all the python tutorial files
 # Documentation
 
 [python-colab](https://github.com/Shahid-coder/python-colab) is an end-to-end open source project 
-for learning purpose. It is a comprehensive notebooks that will teach you python from zero to hero. Python-colab was originally developed by shahid.
+for learning purpose. It is a set of comprehensive notebooks that will teach you python from zero to hero. Python-colab was originally developed by shahid.
 
 Note: This project uses python 3.8 or later . 
 # clone
